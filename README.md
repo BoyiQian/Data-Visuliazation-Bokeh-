@@ -20,4 +20,4 @@ and sell number and how does it change based on regions through years?
 developers and games affect sales?
 4. What are the characteristics of best-selling games?
 
-ad
+
